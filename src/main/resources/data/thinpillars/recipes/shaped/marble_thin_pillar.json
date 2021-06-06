@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "quark:marble_pillar"
+    }
+  },
+  "result": {
+    "item": "thinpillars:marble_thin_pillar",
+    "count": 2
+  },
+  "conditions":[
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "stone_pillar"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "marble"
+        }
+      ]
+    }
+  ]
+}

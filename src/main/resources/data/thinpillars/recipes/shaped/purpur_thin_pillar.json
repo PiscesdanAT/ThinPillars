@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecarft:purpur_pillar"
+    }
+  },
+  "result": {
+    "item": "thinpillars:purpur_thin_pillar",
+    "count": 2
+  }
+}

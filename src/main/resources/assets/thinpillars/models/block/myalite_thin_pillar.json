@@ -1,0 +1,7 @@
+{
+  "parent": "thinpillars:block/pillar_tinted",
+  "textures": {
+    "side": "thinpillars:block/myalite_thin_pillar",
+    "end": "thinpillars:block/myalite_thin_pillar_inner"
+  }
+}

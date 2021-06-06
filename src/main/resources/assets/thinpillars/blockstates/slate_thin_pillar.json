@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "pillartype=top": {
+            "model": "thinpillars:block/slate_thin_pillar_top"
+        },
+        "pillartype=middle": {
+            "model": "thinpillars:block/slate_thin_pillar"
+        },
+        "pillartype=bottom": {
+            "model": "thinpillars:block/slate_thin_pillar_bottom"
+        }
+    }
+}

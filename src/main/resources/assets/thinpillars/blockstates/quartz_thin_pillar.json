@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "pillartype=top": {
+            "model": "thinpillars:block/quartz_thin_pillar_top"
+        },
+        "pillartype=middle": { "model": "thinpillars:block/quartz_thin_pillar"
+        },
+        "pillartype=bottom": { "model": "thinpillars:block/quartz_thin_pillar_bottom"
+        }
+    }
+}

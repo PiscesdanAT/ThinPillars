@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:quartz_block"
+  },
+  "result": "thinpillars:quartz_thin_pillar",
+  "count": 1
+}

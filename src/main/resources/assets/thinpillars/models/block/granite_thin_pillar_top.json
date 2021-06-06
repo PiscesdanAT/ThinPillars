@@ -1,0 +1,8 @@
+{
+  "parent": "thinpillars:block/pillar_top",
+  "textures": {
+    "side": "thinpillars:block/granite_thin_pillar_top",
+    "end": "thinpillars:block/granite_thin_pillar_inner",
+    "top": "thinpillars:block/granite_thin_pillar_updown"
+  }
+}
