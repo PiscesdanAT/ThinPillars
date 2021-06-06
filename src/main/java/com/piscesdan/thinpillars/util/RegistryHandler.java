@@ -37,7 +37,6 @@ public class RegistryHandler
     public static final RegistryObject<Block> LIMESTONE_THIN_PILLAR = BLOCKS.register("limestone_thin_pillar", BlockLimestoneThinPillar::new);
     public static final RegistryObject<Block> MARBLE_THIN_PILLAR = BLOCKS.register("marble_thin_pillar", BlockMarbleThinPillar::new);
     public static final RegistryObject<Block> MIDORI_THIN_PILLAR = BLOCKS.register("midori_thin_pillar", BlockMidoriThinPillar::new);
-    public static final RegistryObject<Block> MYALITE_THIN_PILLAR = BLOCKS.register("myalite_thin_pillar", BlockMyaliteThinPillar::new);
     public static final RegistryObject<Block> SLATE_THIN_PILLAR = BLOCKS.register("slate_thin_pillar", BlockSlateThinPillar::new);
     public static final RegistryObject<Block> VOIDSTONE_THIN_PILLAR = BLOCKS.register("voidstone_thin_pillar", BlockVoidstoneThinPillar::new);
 
@@ -55,7 +54,6 @@ public class RegistryHandler
     public static final RegistryObject<Item> LIMESTONE_THIN_PILLAR_ITEM = ITEMS.register("limestone_thin_pillar", () -> new BlockItem(LIMESTONE_THIN_PILLAR.get(), quarkGroup));
     public static final RegistryObject<Item> MARBLE_THIN_PILLAR_ITEM = ITEMS.register("marble_thin_pillar", () -> new BlockItem(MARBLE_THIN_PILLAR.get(), quarkGroup));
     public static final RegistryObject<Item> MIDORI_THIN_PILLAR_ITEM = ITEMS.register("midori_thin_pillar", () -> new BlockItem(MIDORI_THIN_PILLAR.get(), quarkGroup));
-    public static final RegistryObject<Item> MYALITE_THIN_PILLAR_ITEM = ITEMS.register("myalite_thin_pillar", () -> new BlockItem(MYALITE_THIN_PILLAR.get(), quarkGroup));
     public static final RegistryObject<Item> SLATE_THIN_PILLAR_ITEM = ITEMS.register("slate_thin_pillar", () -> new BlockItem(SLATE_THIN_PILLAR.get(), quarkGroup));
     public static final RegistryObject<Item> VOIDSTONE_THIN_PILLAR_ITEM = ITEMS.register("voidstone_thin_pillar", () -> new BlockItem(VOIDSTONE_THIN_PILLAR.get(), quarkGroup));
 

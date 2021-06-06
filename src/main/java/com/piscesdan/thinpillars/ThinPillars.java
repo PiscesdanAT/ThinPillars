@@ -1,11 +1,7 @@
 package com.piscesdan.thinpillars;
 
-import com.piscesdan.thinpillars.util.RecipeCondition;
 import com.piscesdan.thinpillars.util.RegistryHandler;
-import net.minecraft.block.Block;
 import net.minecraftforge.common.MinecraftForge;
-import net.minecraftforge.common.crafting.CraftingHelper;
-import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
@@ -43,7 +39,6 @@ public class ThinPillars
 
     private void setup(final FMLCommonSetupEvent event)
     {
-        CraftingHelper.register(new RecipeCondition.Serializer(RecipeCondition.MOD_FLAG));
     }
 
     private void doClientStuff(final FMLClientSetupEvent event) {
