@@ -1,15 +1,18 @@
 {
-  "block.thinpillars.purpur_thin_pillar": "Thin Purpur Pillar",
-  "block.thinpillars.quartz_thin_pillar": "Thin Quartz Pillar",
-
   "block.thinpillars.andesite_thin_pillar": "Thin Andesite Pillar",
-  "block.thinpillars.biotite_thin_pillar": "Thin Biotite Pillar",
   "block.thinpillars.diorite_thin_pillar": "Thin Diorite Pillar",
   "block.thinpillars.granite_thin_pillar": "Thin Granite Pillar",
+  "block.thinpillars.purpur_thin_pillar": "Thin Purpur Pillar",
+  "block.thinpillars.quartz_thin_pillar": "Thin Quartz Pillar",
+  "block.thinpillars.red_sandstone_thin_pillar": "Thin Red Sandstone Pillar",
+  "block.thinpillars.sandstone_thin_pillar": "Thin Sandstone Pillar",
+
+  "block.thinpillars.biotite_thin_pillar": "Thin Biotite Pillar",
   "block.thinpillars.jasper_thin_pillar": "Thin Jasper Pillar",
   "block.thinpillars.limestone_thin_pillar": "Thin Limestone Pillar",
   "block.thinpillars.marble_thin_pillar": "Thin Marble Pillar",
   "block.thinpillars.midori_thin_pillar": "Thin Midori Pillar",
   "block.thinpillars.slate_thin_pillar": "Thin Slate Pillar",
+  "block.thinpillars.soul_sandstone_thin_pillar": "Thin Soul Sandstone Pillar",
   "block.thinpillars.voidstone_thin_pillar": "Thin Voidstone Pillar"
 }

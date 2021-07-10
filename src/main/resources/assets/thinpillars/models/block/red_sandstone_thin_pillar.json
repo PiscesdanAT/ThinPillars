@@ -1,0 +1,7 @@
+{
+  "parent": "thinpillars:block/pillar",
+  "textures": {
+    "side": "thinpillars:block/red_sandstone/red_sandstone_thin_pillar",
+    "end": "thinpillars:block/red_sandstone/red_sandstone_thin_pillar_inner"
+  }
+}

@@ -6,11 +6,11 @@
   ],
   "key": {
     "M": {
-      "item": "minecraft:polished_diorite"
+      "item": "minecraft:red_sandstone"
     }
   },
   "result": {
-    "item": "thinpillars:diorite_thin_pillar",
+    "item": "thinpillars:red_sandstone_thin_pillar",
     "count": 2
   }
 }

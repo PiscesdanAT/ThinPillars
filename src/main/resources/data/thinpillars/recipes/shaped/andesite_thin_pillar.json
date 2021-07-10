@@ -6,26 +6,11 @@
   ],
   "key": {
     "M": {
-      "item": "quark:andesite_pillar"
+      "item": "minecraft:polished_andesite"
     }
   },
   "result": {
     "item": "thinpillars:andesite_thin_pillar",
     "count": 2
-  },
-  "conditions":[
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_pillar"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "andesite"
-        }
-      ]
-    }
-  ]
+  }
 }

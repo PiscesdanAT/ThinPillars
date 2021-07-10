@@ -4,20 +4,5 @@
     "item": "minecraft:andesite"
   },
   "result": "thinpillars:andesite_thin_pillar",
-  "count": 1,
-  "conditions": [
-    {
-      "type": "forge:and",
-      "values": [
-        {
-          "type": "quark:flag",
-          "flag": "stone_pillar"
-        },
-        {
-          "type": "quark:flag",
-          "flag": "andesite"
-        }
-      ]
-    }
-  ]
+  "count": 1
 }
