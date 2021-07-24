@@ -1,13 +1,13 @@
 {
     "variants": {
-        "pillartype=top": {
-            "model": "thinpillars:block/voidstone_thin_pillar_top"
-        },
-        "pillartype=middle": {
-            "model": "thinpillars:block/voidstone_thin_pillar"
-        },
-        "pillartype=bottom": {
-            "model": "thinpillars:block/voidstone_thin_pillar_bottom"
-        }
+        "pillartype=top,axis=y": { "model": "thinpillars:block/voidstone_thin_pillar_top" },
+        "pillartype=top,axis=z": { "model": "thinpillars:block/voidstone_thin_pillar_top", "x": 90 },
+        "pillartype=top,axis=x": { "model": "thinpillars:block/voidstone_thin_pillar_top", "x": 90, "y": 90 },
+        "pillartype=middle,axis=y": { "model": "thinpillars:block/voidstone_thin_pillar" },
+        "pillartype=middle,axis=z": { "model": "thinpillars:block/voidstone_thin_pillar", "x": 90 },
+        "pillartype=middle,axis=x": { "model": "thinpillars:block/voidstone_thin_pillar", "x": 90, "y": 90 },
+        "pillartype=bottom,axis=y": { "model": "thinpillars:block/voidstone_thin_pillar_bottom" },
+        "pillartype=bottom,axis=z": { "model": "thinpillars:block/voidstone_thin_pillar_bottom", "x": 90 },
+        "pillartype=bottom,axis=x": { "model": "thinpillars:block/voidstone_thin_pillar_bottom", "x": 90, "y": 90 }
     }
 }

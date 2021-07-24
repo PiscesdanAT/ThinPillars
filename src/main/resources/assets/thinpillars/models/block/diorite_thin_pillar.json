@@ -1,7 +1,7 @@
 {
   "parent": "thinpillars:block/pillar",
   "textures": {
-    "side": "thinpillars:block/diorite_thin_pillar",
-    "end": "thinpillars:block/diorite_thin_pillar_inner"
+    "side": "thinpillars:block/diorite/diorite_thin_pillar",
+    "end": "thinpillars:block/diorite/diorite_thin_pillar_inner"
   }
 }

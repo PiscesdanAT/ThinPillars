@@ -14,9 +14,9 @@ All other files in
 
 `src/main/resources/assets/thinpillars/textures/block/`
 
-with the exception of 
+with the exception of those in
 
-`src/main/resources/assets/thinpillars/textures/block/purpur_*`
-`src/main/resources/assets/thinpillars/textures/block/quartz_*`
+`src/main/resources/assets/thinpillars/textures/block/purpur/`
+`src/main/resources/assets/thinpillars/textures/block/quartz/`
 
 are derived on those made by [the quark team](https://github.com/Vazkii/Quark) and are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)

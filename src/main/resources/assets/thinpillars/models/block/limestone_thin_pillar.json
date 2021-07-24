@@ -1,7 +1,7 @@
 {
   "parent": "thinpillars:block/pillar",
   "textures": {
-    "side": "thinpillars:block/limestone_thin_pillar",
-    "end": "thinpillars:block/limestone_thin_pillar_inner"
+    "side": "thinpillars:block/limestone/limestone_thin_pillar",
+    "end": "thinpillars:block/limestone/limestone_thin_pillar_inner"
   }
 }

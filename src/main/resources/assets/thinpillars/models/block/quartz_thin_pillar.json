@@ -1,7 +1,7 @@
 {
   "parent": "thinpillars:block/pillar",
   "textures": {
-    "side": "thinpillars:block/quartz_thin_pillar",
-    "end": "thinpillars:block/quartz_thin_pillar_inner"
+    "side": "thinpillars:block/quartz/quartz_thin_pillar",
+    "end": "thinpillars:block/quartz/quartz_thin_pillar_inner"
   }
 }

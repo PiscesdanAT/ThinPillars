@@ -13,7 +13,7 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
+version = '1.1'
 group = 'com.piscesdan.thinpillars' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = 'thinpillars'
 
@@ -78,9 +78,33 @@ minecraft {
     }
 }
 
+/*
+For testing only
+
+repositories {
+
+    maven {
+        name 'vazkii maven'
+        url "http://maven.blamejared.com/"
+    }
+
+    maven {
+        name 'JEI maven'
+        url = "https://dvs1.progwml6.com/files/maven"
+    }
+}
+*/
+
+// For testing only
 dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.0.22'
 
+   // compile fg.deobf('vazkii.autoreglib:AutoRegLib:1.6-48.88')
+
+   // compile fg.deobf('vazkii.quark:Quark:r2.4-304.1723')
+
+   // compileOnly fg.deobf('mezz.jei:jei-1.16.4:7.6.1.71')
+   // runtimeOnly fg.deobf('mezz.jei:jei-1.16.4:7.6.1.71')
 }
 
 // Example for how to get properties into the manifest for reading by the runtime..

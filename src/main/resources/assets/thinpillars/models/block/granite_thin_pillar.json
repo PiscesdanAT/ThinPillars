@@ -1,7 +1,7 @@
 {
   "parent": "thinpillars:block/pillar",
   "textures": {
-    "side": "thinpillars:block/granite_thin_pillar",
-    "end": "thinpillars:block/granite_thin_pillar_inner"
+    "side": "thinpillars:block/granite/granite_thin_pillar",
+    "end": "thinpillars:block/granite/granite_thin_pillar_inner"
   }
 }
