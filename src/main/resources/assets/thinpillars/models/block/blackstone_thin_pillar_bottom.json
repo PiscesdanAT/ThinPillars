@@ -1,0 +1,8 @@
+{
+  "parent": "thinpillars:block/pillar_bottom",
+  "textures": {
+    "side": "thinpillars:block/blackstone/blackstone_thin_pillar_bottom",
+    "end": "thinpillars:block/blackstone/blackstone_thin_pillar_inner",
+    "bottom": "thinpillars:block/blackstone/blackstone_thin_pillar_updown"
+  }
+}

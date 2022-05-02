@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "thinpillars:stone_thin_pillar",
+    "count": 2
+  }
+}

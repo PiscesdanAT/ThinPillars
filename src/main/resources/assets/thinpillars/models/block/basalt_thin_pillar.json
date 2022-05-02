@@ -1,0 +1,7 @@
+{
+  "parent": "thinpillars:block/pillar",
+  "textures": {
+    "side": "thinpillars:block/basalt/basalt_thin_pillar",
+    "end": "thinpillars:block/basalt/basalt_thin_pillar_inner"
+  }
+}

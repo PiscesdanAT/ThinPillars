@@ -1,11 +1,15 @@
 {
   "block.thinpillars.andesite_thin_pillar": "Thin Andesite Pillar",
+  "block.thinpillars.basalt_thin_pillar": "Thin Basalt Pillar",
+  "block.thinpillars.blackstone_thin_pillar": "Thin Blackstone Pillar",
   "block.thinpillars.diorite_thin_pillar": "Thin Diorite Pillar",
+  "block.thinpillars.end_stone_thin_pillar": "Thin End Stone Pillar",
   "block.thinpillars.granite_thin_pillar": "Thin Granite Pillar",
   "block.thinpillars.purpur_thin_pillar": "Thin Purpur Pillar",
   "block.thinpillars.quartz_thin_pillar": "Thin Quartz Pillar",
   "block.thinpillars.red_sandstone_thin_pillar": "Thin Red Sandstone Pillar",
   "block.thinpillars.sandstone_thin_pillar": "Thin Sandstone Pillar",
+  "block.thinpillars.stone_thin_pillar": "Thin Stone Pillar",
 
   "block.thinpillars.biotite_thin_pillar": "Thin Biotite Pillar",
   "block.thinpillars.jasper_thin_pillar": "Thin Jasper Pillar",

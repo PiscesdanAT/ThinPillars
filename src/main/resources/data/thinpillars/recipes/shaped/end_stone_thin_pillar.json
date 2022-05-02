@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "item": "thinpillars:end_stone_thin_pillar",
+    "count": 2
+  }
+}

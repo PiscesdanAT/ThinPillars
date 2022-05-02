@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "M",
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:polished_basalt"
+    }
+  },
+  "result": {
+    "item": "thinpillars:basalt_thin_pillar",
+    "count": 2
+  }
+}

@@ -26,11 +26,15 @@ public class RegistryHandler
 
     // blocks
     public static final RegistryObject<Block> ANDESITE_THIN_PILLAR = BLOCKS.register("andesite_thin_pillar", BlockAndesiteThinPillar::new);
+    public static final RegistryObject<Block> BASALT_THIN_PILLAR = BLOCKS.register("basalt_thin_pillar", BlockBasaltThinPillar::new);
+    public static final RegistryObject<Block> BLACKSTONE_THIN_PILLAR = BLOCKS.register("blackstone_thin_pillar", BlockBlackstoneThinPillar::new);
     public static final RegistryObject<Block> DIORITE_THIN_PILLAR = BLOCKS.register("diorite_thin_pillar", BlockDioriteThinPillar::new);
+    public static final RegistryObject<Block> END_STONE_THIN_PILLAR = BLOCKS.register("end_stone_thin_pillar", BlockEndStoneThinPillar::new);
     public static final RegistryObject<Block> GRANITE_THIN_PILLAR = BLOCKS.register("granite_thin_pillar", BlockGraniteThinPillar::new);
     public static final RegistryObject<Block> PURPUR_THIN_PILLAR = BLOCKS.register("purpur_thin_pillar", BlockPurpurThinPillar::new);
     public static final RegistryObject<Block> QUARTZ_THIN_PILLAR = BLOCKS.register("quartz_thin_pillar", BlockQuartzThinPillar::new);
     public static final RegistryObject<Block> SANDSTONE_THIN_PILLAR = BLOCKS.register("sandstone_thin_pillar", BlockSandstoneThinPillar::new);
+    public static final RegistryObject<Block> STONE_THIN_PILLAR = BLOCKS.register("stone_thin_pillar", BlockStoneThinPillar::new);
     public static final RegistryObject<Block> RED_SANDSTONE_THIN_PILLAR = BLOCKS.register("red_sandstone_thin_pillar", BlockRedSandstoneThinPillar::new);
 
     // quark
@@ -45,11 +49,15 @@ public class RegistryHandler
 
     // itemblocks
     public static final RegistryObject<Item> ANDESITE_THIN_PILLAR_ITEM = ITEMS.register("andesite_thin_pillar", () -> new BlockItem(ANDESITE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> BASALT_THIN_PILLAR_ITEM = ITEMS.register("basalt_thin_pillar", () -> new BlockItem(BASALT_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> BLACKSTONE_THIN_PILLAR_ITEM = ITEMS.register("blackstone_thin_pillar", () -> new BlockItem(BLACKSTONE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> DIORITE_THIN_PILLAR_ITEM = ITEMS.register("diorite_thin_pillar", () -> new BlockItem(DIORITE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> END_STONE_THIN_PILLAR_ITEM = ITEMS.register("end_stone_thin_pillar", () -> new BlockItem(END_STONE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> GRANITE_THIN_PILLAR_ITEM = ITEMS.register("granite_thin_pillar", () -> new BlockItem(GRANITE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> PURPUR_THIN_PILLAR_ITEM = ITEMS.register("purpur_thin_pillar", () -> new BlockItem(PURPUR_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> QUARTZ_THIN_PILLAR_ITEM = ITEMS.register("quartz_thin_pillar", () -> new BlockItem(QUARTZ_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> SANDSTONE_THIN_PILLAR_ITEM = ITEMS.register("sandstone_thin_pillar", () -> new BlockItem(SANDSTONE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
+    public static final RegistryObject<Item> STONE_THIN_PILLAR_ITEM = ITEMS.register("stone_thin_pillar", () -> new BlockItem(STONE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
     public static final RegistryObject<Item> RED_SANDSTONE_THIN_PILLAR_ITEM = ITEMS.register("red_sandstone_thin_pillar", () -> new BlockItem(RED_SANDSTONE_THIN_PILLAR.get(), new Item.Properties().group(ItemGroup.BUILDING_BLOCKS)));
 
     // quark
